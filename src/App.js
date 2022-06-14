@@ -1,4 +1,3 @@
-import "./App.css";
 import DatingCards from "./components/sections/DatingCards/DatingCards";
 import Header from "./components/sections/Header/Header";
 
